@@ -1,0 +1,6 @@
+#Wed, 12 Jul 2017 10:39:01 -0500
+
+info.app.version=0.1
+info.app.name=SerWebShip
+grails.env=development
+info.app.grailsVersion=3.3.0.RC1
