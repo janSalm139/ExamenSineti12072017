@@ -2,9 +2,12 @@ Actualmente se esta desarrollando una aplicación basada en web, para ello se ut
 Sección 1
 1. Describe que entiendes por el patrón de diseño MVC.
 Es una arquitectura que permite tener los datos separados 
-2. ¿Que es la M de MVC en grails?maneja la reprecentación de los datos (arquitectura datos) modelo de datos (conexionesa DB y demas...)
-3. ¿Que es la V de MVC en grails?layouts, plantillas, como se presentan los datos (grails tengo entendido que tiene algunas plantillas)
-4. ¿Que es la C de MVC en grails? Maneja el codigo o los servicios
+2. ¿Que es la M de MVC en grails?
+Es donde se maneja la reprecentación de los datos (arquitectura datos) modelo de datos (conexionesa DB y demas...)
+3. ¿Que es la V de MVC en grails?
+layouts, plantillas, el la manera en como se presentan los datos (grails tengo entendido que tiene algunas plantillas), pero con todo se tiene que customizar
+4. ¿Que es la C de MVC en grails? 
+Maneja el codigo o los servicios, es lo que nos dice que hace pero no como lo hace
 
 Sección 2
 1. Realiza un programa en groovy que separe por comas un numero dado:
