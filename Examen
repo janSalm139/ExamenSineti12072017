@@ -1,0 +1,26 @@
+Actualmente se esta desarrollando una aplicación basada en web, para ello se utiliza el framework grails, los ejercicios de esta prueba estarán enfocados a evaluar algunas cosas básicas de ese framework. Se puede hacer uso de internet para completar la prueba.
+Sección 1
+1. Describe que entiendes por el patrón de diseño MVC.
+Es una arquitectura que permite tener los datos separados 
+2. ¿Que es la M de MVC en grails?maneja la reprecentación de los datos (arquitectura datos) modelo de datos (conexionesa DB y demas...)
+3. ¿Que es la V de MVC en grails?layouts, plantillas, como se presentan los datos (grails tengo entendido que tiene algunas plantillas)
+4. ¿Que es la C de MVC en grails? Maneja el codigo o los servicios
+
+Sección 2
+1. Realiza un programa en groovy que separe por comas un numero dado:
+Ejemplo: al ingresar 1235000 deberia obtener  1,235,000
+
+2. Realiza un programa en groovy que implemente el algotimo de la burbuja
+
+Sección 3
+Para la siguiente sección necesitas instalar grails 3.2.10
+1. Realiza un controlador en grails llamado Test, que en el action greeting, muestre en pantalla un saludo
+2. Realiza una clase de dominio llamada Ship, la cual mapea atributos de un barco, como nombre, capacidad de pasajeros etc.
+3. En el archivo Boostrap.groovy de grails, crea tres instancias de Ship, y guardalas en la base de datos.
+4. Toma una impresión de pantalla de una consulta a la tabla ship, y guardala en el proyecto de grails
+5. Reliza un controlador Rest para la clase de dominio Ship
+6. Reliza el consumo de la api REST del barco, con alguna herramienta de pruebas que conozcas y toma impresiones de pantalla.
+
+Sección 4
+realiza un front end(solo consulta) para el siguiente web service https://jsonplaceholder.typicode.com/users.(buscar en la carpeta deConsumirRestBootstrap)
+Utiliza el framework boostrap para el css html y js(si es con angularjs mejor)(buscar en la carpeta deConsumirAPI-FormtatoBootstrap)
